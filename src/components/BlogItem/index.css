@@ -1,0 +1,32 @@
+.blog-container {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+}
+.blog-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blog-title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 18px;
+  font-weight: bold;
+  color: #12022f;
+}
+.blog-date {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 16px;
+  font-weight: normal;
+
+  color: #9aa5b1;
+}
+.blog-para {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-size: 16px;
+  font-weight: normal;
+
+  color: #9aa5b1;
+}
